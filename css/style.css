@@ -36,3 +36,13 @@ button:hover {
     background-color: beige;
     color: black;
 }
+.claseElementosDelCarrito{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+table{
+    border: solid, 1px, purple;
+    align-items: center;
+}
